@@ -1,18 +1,16 @@
-# Automated Notifications for Housing Project Hearings
+# Make public hearings resemble Twitter Spaces
 
 # Problem Statement:
 
-Efficiently notifying supporters about public hearings related to housing development projects is currently a manual and time-consuming process.
-Advocacy groups must monitor public agendas, watch livestreamed hearings, and identify relevant discussions, such as those surrounding specific issues.
-This labor-intensive process often results in delays and missed opportunities for engagement
+Staying up to date with public hearings related to housing developments is currently very difficult - there are many long meetings to keep track of, and people need to sit through the entire meeting live to find the few parts they care about. Advocacy groups will usually have one person watch the entire meeting and notify supporters manually when relevant discussions start, but this is time-consuming, and only enables notifications when there's an advocacy group. This labor-intensive process often results in delays and missed opportunities for engagement.
 
-Developing a solution that automates the identification of housing project-related hearings, extracts pertinent information, and sends timely notifications to supporters will streamline advocacy efforts and encourage community involvement.
+Developing a solution that automatically identifies when specific topics are being talked about and sends notifications will streamline advocacy efforts and encourage community involvement.
 
 ## Focus Areas:
 
-Data Scraping: Create mechanisms to extract information from public agendas, livestreamed hearings, and relevant sources like SF Gov TV.
-Issue Tracking: Develop algorithms to identify and extract discussions related to housing projects and specific issues within the hearings.
-Automated Notifications: Design a system to send real-time notifications to supporters when relevant hearings and discussions occur.
+- Data Scraping: Create mechanisms to extract information from public agendas, livestreamed hearings, and relevant sources like SF Gov TV.
+- Issue Tracking: Develop algorithms to identify and extract discussions related to housing projects and specific issues within the hearings.
+- Automated Notifications: Design a system to send real-time notifications to supporters when relevant hearings and discussions occur. These notifications could be via text, email, or even streamed to a twitter bot that streams the meetings into a Twitter Space.
 
 ## Key Stakeholders:
 
