@@ -17,7 +17,9 @@ Automated Notifications: Design a system to send real-time notifications to supp
 ## Key Stakeholders:
 
 Housing Advocacy Groups (YIMBY, Housing Coalition Action)
+
 Community Supporters
+
 Local Government Agencies
 
 ## Expected Outcomes:
