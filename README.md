@@ -24,3 +24,5 @@ Timely Engagement: Enable housing advocacy groups to promptly engage supporters 
 Increased Participation: Encourage community involvement by providing automated updates on critical housing-related discussions.
 Streamlined Processes: Reduce manual effort and human error associated with tracking and notifying supporters about hearings.
 
+## Example Hackathon Projects
+* https://devpost.com/software/notifications
